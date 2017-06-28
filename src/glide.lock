@@ -23,4 +23,3 @@ imports:
   version: afbc45e87f3ba324c532d12c71918ef52e0fb194
 - name: github.com/jmespath/go-jmespath
   version: bd40a432e4c76585ef6b72d3fd96fb9b6dc7b68d
-testImports: []
